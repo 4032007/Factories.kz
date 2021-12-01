@@ -12,6 +12,7 @@ $(function() {
       breakpoint: 767,
       settings: {
         slidesToShow: 1,
+		infinite: true,
         slidesToScroll: 1
       }
     }
